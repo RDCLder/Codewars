@@ -1,7 +1,5 @@
 # Codewars
 
-## Description
-
 This is a repository of Codewars "kata" solutions organized by "kyu" or difficulty starting from 7 kyu down to 1 kyu.  In the future, 1+ dan kata solutions will also be listed here.
 
 ## 7 Kyu
