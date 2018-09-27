@@ -1,6 +1,6 @@
-## 5 Kyu:  Directions_Reduction (Unfinished)
+# Directions Reduction (Unfinished)
 
-[Codewars Kata](https://www.codewars.com/kata/550f22f4d758534c1100025a)
+[5 Kyu Kata](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
 The goal is to take a list of cardinal directions (NORTH, SOUTH, EAST, WEST) and return a list with all directly opposite directions removed.  For example, NORTH and SOUTH cancel out when next to each other.  NORTH, WEST, SOUTH do not.
 
