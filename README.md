@@ -10,4 +10,4 @@ This is a repository of Codewars "Kata" solutions organized by "kyu" or difficul
 ## 7 Kyu
 
 ## 6 Kyu
-
+- [Directions Reduction](./5_Kyu/Directions_Reduction.md)
